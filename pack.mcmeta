@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [88, 255],
+    "description": [
+      "But I thought you told me to say [noise]?"
+    ],
+    "meta": {
+      "authors": ["britishconnah"],
+      "modified": "2026-08-29",
+      "version": "26.2"
+    }
+  }
+}
